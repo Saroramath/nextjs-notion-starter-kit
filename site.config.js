@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Shivam',
-  domain: 'transitivebullsh.it',
+  domain: 'shivamaroramath.com',
   author: 'Shivam',
 
   // open graph metadata (optional)
